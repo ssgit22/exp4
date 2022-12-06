@@ -1,4 +1,4 @@
-# exp3
+# exp4
 ### PAGING TECHNIQUE OF MEMORY MANAGEMENT:
 ```
 #include<stdio.h>
