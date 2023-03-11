@@ -118,6 +118,7 @@ b[r]=b[j];
 b[j]=t; } } }
 for(r=0;r<f;r++) {
 if(c2[r]==b[0])
+
 q[r]=p[i];
 printf("\t%d",q[r]); }
 printf("\n"); } } }
@@ -157,3 +158,4 @@ printf("Page Fault Is %d",count);
 return 0; }
 
 ```
+![3](https://user-images.githubusercontent.com/119419532/224465954-1993feeb-1c28-4100-9c3f-26eeee991b2c.png)
